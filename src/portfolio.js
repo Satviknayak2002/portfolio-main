@@ -111,7 +111,7 @@ const resumeDisplay = {
       image: require("./assets/images/resumePreview.png"), // Placeholder - update with actual resume preview image
       name: "My Resume",
       description: "Click to view and download my resume",
-      link: "src/containers/greeting/Resume.pdf",
+      link: "/Resume.pdf",
       openInNewTab: true
     }
   ],
