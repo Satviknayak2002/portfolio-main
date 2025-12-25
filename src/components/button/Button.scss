@@ -1,0 +1,29 @@
+
+.main-button {
+  background-color: #6c63ff;
+  color: #ffffff;
+  padding: 12px 28px;
+  border-radius: 6px;
+  font-size: 1rem;
+  font-weight: 500;
+  border: none;
+  cursor: pointer;
+  transition: all 0.25s ease;
+  text-decoration: none;
+  display: inline-block;
+}
+
+.main-button:hover {
+  background-color: #5848e5;
+  transform: translateY(-2px);
+}
+
+.project-button {
+  background-color: transparent;
+  border: 1px solid #6c63ff;
+}
+
+.project-button:hover {
+  background-color: #6c63ff;
+  color: #ffffff;
+}
