@@ -24,7 +24,7 @@ const greeting = {
   username: "Satvik Nayak",
   title: "Hi, I'm Satvik ",
   subTitle:
-    "MS Computer Science @ UNC Charlotte |  Data Scientist | I buildi data-driven systems and intelligent applications.",
+    "MS Computer Science @ UNC Charlotte |  Data Scientist | I build data-driven systems and intelligent applications.",
   resumeLink: "PASTE_YOUR_RESUME_LINK_HERE",
   displayGreeting: true,
 };
